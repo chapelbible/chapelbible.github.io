@@ -13,7 +13,6 @@ up: ['Psalms']
 next: ['Ps 2']
 ---
 # Psalms 1
-
 ***
  
 
